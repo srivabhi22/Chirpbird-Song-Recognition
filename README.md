@@ -19,3 +19,9 @@ To analyze an audio, there are many parameters. Some of them are:
 - **Zero-crossing rate:** Zero-crossing rate is a measure of number of times in a given time interval/frame that the amplitude of the speech signals passes through a value of zero. This feature has been used heavily in both speech recognition and music information retrieval, being a key feature to classify percussive sounds.
 
 There are many more features of an audio but the major ones have been covered up above. For further detail please visit: [`Features of Audio`](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b)
+
+## FEATURE EXTRACTION
+I plotted the mel spectrograms from the mfccs of different audios. The input data were the images of the mel spectograms into our neural network architecture.
+
+## ARCHITECTURE
+Transfer learning was used to incorporate the usage of the ResNet50 model which gave a very decent accuracy.
