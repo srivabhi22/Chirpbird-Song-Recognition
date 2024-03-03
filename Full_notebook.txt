@@ -1,0 +1,2 @@
+Cannot upload the whole file as it was(>25Mb)
+To see the whole notebook visit: "https://www.kaggle.com/code/srivabhi22/notebook3956eed930/notebook"
