@@ -23,3 +23,7 @@ I plotted the mel spectrograms from the mfccs of different audios. The input dat
 
 ## ARCHITECTURE
 Transfer learning was used to incorporate the usage of the ResNet50 model which gave a very decent accuracy.
+
+## CONTRIBUTORS
+- Abhishek Srivastava: (https://github.com/srivabhi22)
+- Himanshu Shekhar: (https://github.com/HimanS1708)
